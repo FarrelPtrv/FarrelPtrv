@@ -79,23 +79,22 @@ An application focused on managing warehouse inventory, goods, suppliers, and re
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=FarrelPtrv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    width="44%"
-    height="175"
+    width="38%"
+    height="145"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarrelPtrv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    width="44%"
-    height="175"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarrelPtrv&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+    width="38%"
+    height="145"
   />
 </p>
 
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=FarrelPtrv&theme=tokyonight&hide_border=true"
-    width="58%"
+    width="48%"
   />
 </p>
----
 
 ## 📂 Featured Repositories
 
