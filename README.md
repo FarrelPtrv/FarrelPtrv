@@ -4,7 +4,8 @@
 
 I'm an Informatics student with a strong interest in software development, computer networking, and cybersecurity.
 
-Currently, I'm exploring different technologies and improving my programming skills, especially in Python, TypeScript, and Rust. I'm passionate about understanding how software and networks work, building useful applications, and continuously learning new things.
+Currently, I'm exploring different technologies and improving my programming skills, especially in Python, TypeScript, and Rust. 
+I'm passionate about understanding how software and networks work, building useful applications, and continuously learning new things.
 
 My long-term goals are to become a **Network Engineer** and a **Cyber Security Specialist**.
 
@@ -80,20 +81,16 @@ A project focused on converting image formats and exploring image transformation
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=FarrelPtrv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FarrelPtrv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarrelPtrv&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarrelPtrv&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=FarrelPtrv&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img width="520" src="https://github-readme-streak-stats.herokuapp.com/?user=FarrelPtrv&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 📂 Featured Repositories
