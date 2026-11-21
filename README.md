@@ -74,30 +74,26 @@ My long-term goals are to become a **Network Engineer** and a **Cyber Security S
 
 An application focused on managing warehouse inventory, goods, suppliers, and reports.
 
-### 🖼️ Images Format Converter
-**Image Conversion & Transformation**
-
-A project focused on converting image formats and exploring image transformation features.
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=FarrelPtrv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    width="49%"
-    height="195"
+    width="44%"
+    height="175"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarrelPtrv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    width="49%"
-    height="195"
+    width="44%"
+    height="175"
   />
 </p>
 
 <p align="center">
-  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=FarrelPtrv&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=FarrelPtrv&theme=tokyonight&hide_border=true"
+    width="58%"
+  />
 </p>
 ---
 
