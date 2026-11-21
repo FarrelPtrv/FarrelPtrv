@@ -80,15 +80,18 @@ A project focused on converting image formats and exploring image transformation
 
 ---
 
-## 📊 GitHub Statistics
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FarrelPtrv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarrelPtrv&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=FarrelPtrv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=FarrelPtrv&theme=tokyonight&hide_border=true" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarrelPtrv&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="520" src="https://github-readme-streak-stats.herokuapp.com/?user=FarrelPtrv&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
