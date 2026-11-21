@@ -93,18 +93,23 @@ A project focused on converting image formats and exploring image transformation
 
 ---
 
-## 🔝 Top Contributed Repository
+## 📂 Featured Repositories
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=FarrelPtrv&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
+Explore some of my projects:
+
+- **NataData** — Warehouse & Inventory Management
+- **Images Format Converter** — Image Conversion & Transformation
 
 ---
 
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FarrelPtrv&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+  <img
+    src="https://komarev.com/ghpvc/?username=FarrelPtrv&label=Views&color=6C63FF&style=flat-square"
+    alt="Profile Views"
+    height="20"
+  />
 </p>
 
 ---
