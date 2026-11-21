@@ -85,7 +85,7 @@ A project focused on converting image formats and exploring image transformation
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FarrelPtrv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarrelPtrv&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarrelPtrv&layout=compact&theme=tokyonight&hide_border=true&card_width=495" />
 </p>
 
 <p align="center">
